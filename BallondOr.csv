@@ -1,4 +1,4 @@
-,year,rank,player,team,points,percentages,country,club country
+number,year,rank,player,team,points,percentages,country,club_country
 0,1956,1st,Stanley Matthews,Blackpool,47.0,37.9,England,England
 1,1956,2nd,Alfredo Di Stéfano,Real Madrid,44.0,35.48,Spain,Spain
 2,1956,3rd,Raymond Kopa,Real Madrid,33.0,26.61,France,Spain
