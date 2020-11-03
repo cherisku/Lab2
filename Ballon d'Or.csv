@@ -1,195 +1,195 @@
-;year;rank;player;team;points;percentages;country;club country
-0;1956;1st;Stanley Matthews;Blackpool;47.0;37.9;England;England
-1;1956;2nd;Alfredo Di Stéfano;Real Madrid;44.0;35.48;Spain;Spain
-2;1956;3rd;Raymond Kopa;Real Madrid;33.0;26.61;France;Spain
-3;1957;1st;Alfredo Di Stéfano;Real Madrid;72.0;58.54;Spain;Spain
-4;1957;2nd;Billy Wright;Wolverhampton Wanderers;19.0;15.45;England;England
-5;1957;3rd;Duncan Edwards;Manchester United;16.0;13.01;England;England
-6;1957;3rd;Raymond Kopa;Real Madrid;16.0;13.01;France;Spain
-7;1958;1st;Raymond Kopa;Real Madrid;71.0;52.99;France;Spain
-8;1958;2nd;Helmut Rahn;Rot-Weiss Essen;40.0;29.85;Germany;Germany
-9;1958;3rd;Just Fontaine;Stade de Reims;23.0;17.16;France;France
-10;1959;1st;Alfredo Di Stéfano;Real Madrid;80.0;54.79;Spain;Spain
-11;1959;2nd;Raymond Kopa;Stade de Reims;42.0;28.77;France;France
-12;1959;3rd;John Charles;Juventus;24.0;16.44;Wales;Italy
-13;1960;1st;Luis Suárez;Barcelona;54.0;43.55;Spain;Spain
-14;1960;2nd;Ferenc Puskás;Real Madrid;37.0;29.84;Hungary;Spain
-15;1960;3rd;Uwe Seeler;Hamburg;33.0;26.61;Germany;Germany
-16;1961;1st;Omar Sívori;Juventus;46.0;42.59;Italy;Italy
-17;1961;2nd;Luis Suárez;Internazionale;40.0;37.04;Spain;Italy
-18;1961;3rd;Johnny Haynes;Fulham;22.0;20.37;England;England
-19;1962;1st;Josef Masopust;Dukla Prague;65.0;43.05;Czechoslovakia;Czechoslovakia
-20;1962;2nd;Eusébio;Benfica;53.0;35.1;Portugal;Portugal
-21;1962;3rd;Karl-Heinz Schnellinger;Köln;33.0;21.85;Germany;Germany
-22;1963;1st;Lev Yashin;Dynamo Moscow;73.0;41.01;USSR;USSR
-23;1963;2nd;Gianni Rivera;Milan;55.0;30.9;Italy;Italy
-24;1963;3rd;Jimmy Greaves;Tottenham Hotspur;50.0;28.09;England;England
-25;1964;1st;Denis Law;Manchester United;61.0;42.96;Scotland;England
-26;1964;2nd;Luis Suárez;Internazionale;43.0;30.28;Spain;Italy
-27;1964;3rd;Amancio;Real Madrid;38.0;26.76;Spain;Spain
-28;1965;1st;Eusébio;Benfica;67.0;39.18;Portugal;Portugal
-29;1965;2nd;Giacinto Facchetti;Internazionale;59.0;34.5;Italy;Italy
-30;1965;3rd;Luis Suárez;Internazionale;45.0;26.32;Spain;Italy
-31;1966;1st;Bobby Charlton;Manchester United;81.0;36.82;England;England
-32;1966;2nd;Eusébio;Benfica;80.0;36.36;Portugal;Portugal
-33;1966;3rd;Franz Beckenbauer;Bayern Munich;59.0;26.82;Germany;Germany
-34;1967;1st;Flórián Albert;Ferencváros;68.0;46.26;Hungary;Hungary
-35;1967;2nd;Bobby Charlton;Manchester United;40.0;27.21;England;England
-36;1967;3rd;Jimmy Johnstone;Celtic;39.0;26.53;Scotland;Scotland
-37;1968;1st;George Best;Manchester United;61.0;38.12;England;England
-38;1968;2nd;Bobby Charlton;Manchester United;53.0;33.12;England;England
-39;1968;3rd;Dragan Džajić;Red Star Belgrade;46.0;28.75;Yugoslavia;Yugoslavia
-40;1969;1st;Gianni Rivera;Milan;83.0;41.5;Italy;Italy
-41;1969;2nd;Luigi Riva;Cagliari;79.0;39.5;Italy;Italy
-42;1969;3rd;Gerd Müller;Bayern Munich;38.0;19.0;Germany;Germany
-43;1970;1st;Gerd Müller;Bayern Munich;77.0;36.32;Germany;Germany
-44;1970;2nd;Bobby Moore;West Ham United;70.0;33.02;England;England
-45;1970;3rd;Luigi Riva;Cagliari;65.0;30.66;Italy;Italy
-46;1971;1st;Johan Cruyff;Ajax;116.0;50.66;Netherlands;Netherlands
-47;1971;2nd;Sandro Mazzola;Internazionale;57.0;24.89;Italy;Italy
-48;1971;3rd;George Best;Manchester United;56.0;24.45;England;England
-49;1972;1st;Franz Beckenbauer;Bayern Munich;81.0;33.89;Germany;Germany
-50;1972;2nd;Gerd Müller;Bayern Munich;79.0;33.05;Germany;Germany
-51;1972;2nd;Günter Netzer;Borussia Mönchengladbach;79.0;33.05;Germany;Germany
-52;1973;1st;Johan Cruyff;Barcelona;96.0;51.34;Netherlands;Spain
-53;1973;2nd;Dino Zoff;Juventus;47.0;25.13;Italy;Italy
-54;1973;3rd;Gerd Müller;Bayern Munich;44.0;23.53;Germany;Germany
-55;1974;1st;Johan Cruyff;Barcelona;116.0;45.31;Netherlands;Spain
-56;1974;2nd;Franz Beckenbauer;Bayern Munich;105.0;41.02;Germany;Germany
-57;1974;3rd;Kazimierz Deyna;Legia Warsaw;35.0;13.67;Poland;Poland
-58;1975;1st;Oleg Blokhin;Dynamo Kyiv;122.0;63.87;USSR;USSR
-59;1975;2nd;Franz Beckenbauer;Bayern Munich;42.0;21.99;Germany;Germany
-60;1975;3rd;Johan Cruyff;Barcelona;27.0;14.14;Netherlands;Spain
-61;1976;1st;Franz Beckenbauer;Bayern Munich;91.0;41.74;Germany;Germany
-62;1976;2nd;Rob Rensenbrink;Anderlecht;75.0;34.4;Netherlands;Belgium
-63;1976;3rd;Ivo Viktor;Dukla Prague;52.0;23.85;Czechoslovakia;Czechoslovakia
-64;1977;1st;Allan Simonsen;Borussia Mönchengladbach;74.0;34.42;Denmark;Germany
-65;1977;2nd;Kevin Keegan;Hamburg;71.0;33.02;England;Germany
-66;1977;3rd;Michel Platini;Nancy;70.0;32.56;Italy;France
-67;1978;1st;Kevin Keegan;Hamburg;87.0;39.91;England;Germany
-68;1978;2nd;Hans Krankl;Barcelona;81.0;37.16;Austria;Spain
-69;1978;3rd;Rob Rensenbrink;Anderlecht;50.0;22.94;Netherlands;Belgium
-70;1979;1st;Kevin Keegan;Hamburg;118.0;55.92;England;Germany
-71;1979;2nd;Karl-Heinz Rummenigge;Bayern Munich;52.0;24.64;Germany;Germany
-72;1979;3rd;Ruud Krol;Ajax;41.0;19.43;Netherlands;Netherlands
-73;1980;1st;Karl-Heinz Rummenigge;Bayern Munich;122.0;64.55;Germany;Germany
-74;1980;2nd;Bernd Schuster;Barcelona;34.0;17.99;Germany;Spain
-75;1980;3rd;Michel Platini;Saint-Étienne;33.0;17.46;Italy;France
-76;1981;1st;Karl-Heinz Rummenigge;Bayern Munich;106.0;50.72;Germany;Germany
-77;1981;2nd;Paul Breitner;Bayern Munich;64.0;30.62;Germany;Germany
-78;1981;3rd;Bernd Schuster;Barcelona;39.0;18.66;Germany;Spain
-79;1982;1st;Paolo Rossi;Juventus;115.0;52.75;Italy;Italy
-80;1982;2nd;Alain Giresse;Bordeaux;64.0;29.36;France;France
-81;1982;3rd;Zbigniew Boniek;Juventus;39.0;17.89;Poland;Italy
-82;1983;1st;Michel Platini;Juventus;110.0;68.32;Italy;Italy
-83;1983;2nd;Kenny Dalglish;Liverpool;26.0;16.15;Scotland;England
-84;1983;3rd;Allan Simonsen;Vejle;25.0;15.53;Denmark;Denmark
-85;1984;1st;Michel Platini;Juventus;110.0;51.16;Italy;Italy
-86;1984;2nd;Jean Tigana;Bordeaux;57.0;26.51;France;France
-87;1984;3rd;Preben Elkjær;Hellas Verona;48.0;22.33;Denmark;Italy
-88;1985;1st;Michel Platini;Juventus;127.0;52.05;Italy;Italy
-89;1985;2nd;Preben Elkjær;Hellas Verona;71.0;29.1;Denmark;Italy
-90;1985;3rd;Bernd Schuster;Barcelona;46.0;18.85;Germany;Spain
-91;1986;1st;Igor Belanov;Dynamo Kyiv;84.0;40.98;USSR;USSR
-92;1986;2nd;Gary Lineker;Barcelona;62.0;30.24;England;Spain
-93;1986;3rd;Emilio Butragueño;Real Madrid;59.0;28.78;Spain;Spain
-94;1987;1st;Ruud Gullit;Milan;106.0;41.09;Netherlands;Italy
-95;1987;2nd;Paulo Futre;Atlético Madrid;91.0;35.27;Portugal;Spain
-96;1987;3rd;Emilio Butragueño;Real Madrid;61.0;23.64;Spain;Spain
-97;1988;1st;Marco van Basten;Milan;129.0;49.24;Netherlands;Italy
-98;1988;2nd;Ruud Gullit;Milan;88.0;33.59;Netherlands;Italy
-99;1988;3rd;Frank Rijkaard;Milan;45.0;17.18;Netherlands;Italy
-100;1989;1st;Marco van Basten;Milan;129.0;51.19;Netherlands;Italy
-101;1989;2nd;Franco Baresi;Milan;80.0;31.75;Italy;Italy
-102;1989;3rd;Frank Rijkaard;Milan;43.0;17.06;Netherlands;Italy
-103;1990;1st;Lothar Matthäus;Internazionale;137.0;47.4;Germany;Italy
-104;1990;2nd;Salvatore Schillaci;Juventus;84.0;29.07;Italy;Italy
-105;1990;3rd;Andreas Brehme;Internazionale;68.0;23.53;Germany;Italy
-106;1991;1st;Jean-Pierre Papin;Marseille;141.0;52.81;France;France
-107;1991;2nd;Dejan Savićević;Red Star Belgrade;42.0;15.73;Yugoslavia;Yugoslavia
-108;1991;2nd;Darko Pančev;Red Star Belgrade;42.0;15.73;Yugoslavia;Yugoslavia
-109;1991;3rd;Lothar Matthäus;Internazionale;42.0;15.73;Germany;Italy
-110;1992;1st;Marco van Basten;Milan;98.0;42.42;Netherlands;Italy
-111;1992;2nd;Hristo Stoichkov;Barcelona;80.0;34.63;Bulgary;Spain
-112;1992;3rd;Dennis Bergkamp;Ajax;53.0;22.94;Netherlands;Netherlands
-113;1993;1st;Roberto Baggio;Juventus;142.0;54.83;Italy;Italy
-114;1993;2nd;Dennis Bergkamp;Internazionale;83.0;32.05;Netherlands;Italy
-115;1993;3rd;Eric Cantona;Manchester United;34.0;13.13;France;England
-116;1994;1st;Hristo Stoichkov;Barcelona;210.0;46.15;Bulgary;Spain
-117;1994;2nd;Roberto Baggio;Juventus;136.0;29.89;Italy;Italy
-118;1994;3rd;Paolo Maldini;Milan;109.0;23.96;Italy;Italy
-119;1995;1st;George Weah ;Milan;144.0;45.14;Liberia;Italy
-120;1995;2nd;Jürgen Klinsmann;Bayern Munich;108.0;33.86;Germany;Germany
-121;1995;3rd;Jari Litmanen;Ajax;67.0;21.0;Netherlands;Netherlands
-122;1996;1st;Matthias Sammer;Borussia Dortmund;144.0;36.55;Germany;Germany
-123;1996;2nd;Ronaldo;Barcelona;143.0;36.29;Brazil;Spain
-124;1996;3rd;Alan Shearer;Newcastle United;107.0;27.16;Scotland;England
-125;1997;1st;Ronaldo ;Internazionale;222.0;62.89;Brazil;Italy
-126;1997;2nd;Predrag Mijatović;Real Madrid;68.0;19.26;Serbia;Spain
-127;1997;3rd;Zinedine Zidane;Juventus;63.0;17.85;France;Italy
-128;1998;1st;Zinedine Zidane;Juventus;244.0;64.55;France;Italy
-129;1998;2nd;Davor Šuker;Real Madrid;68.0;17.99;Croatia;Spain
-130;1998;3rd;Ronaldo;Internazionale;66.0;17.46;Brazil;Italy
-131;1999;1st;Rivaldo;Barcelona;219.0;50.11;Brazil;Spain
-132;1999;2nd;David Beckham;Manchester United;154.0;35.24;England;England
-133;1999;3rd;Andriy Shevchenko;Milan;64.0;14.65;Ukraine;Italy
-134;2000;1st;Luís Figo;Real Madrid;197.0;42.55;Portugal;Spain
-135;2000;2nd;Zinedine Zidane;Juventus;181.0;39.09;France;Italy
-136;2000;3rd;Andriy Shevchenko;Milan;85.0;18.36;Ukraine;Italy
-137;2001;1st;Michael Owen;Liverpool;176.0;40.93;England;England
-138;2001;2nd;Raúl;Real Madrid;140.0;32.56;Spain;Spain
-139;2001;3rd;Oliver Kahn;Bayern Munich;114.0;26.51;Germany;Germany
-140;2002;1st;Ronaldo ;Real Madrid;169.0;39.86;Brazil;Spain
-141;2002;2nd;Roberto Carlos;Real Madrid;145.0;34.2;Brazil;Spain
-142;2002;3rd;Oliver Kahn;Bayern Munich;110.0;25.94;Germany;Germany
-143;2003;1st;Pavel Nedvěd;Juventus;190.0;43.08;Czech Republic;Italy
-144;2003;2nd;Thierry Henry;Arsenal;128.0;29.02;France;England
-145;2003;3rd;Paolo Maldini;Milan;123.0;27.89;Italy;Italy
-146;2004;1st;Andriy Shevchenko;Milan;175.0;39.15;Ukraine;Italy
-147;2004;2nd;Deco;Barcelona;139.0;31.1;Portugal;Spain
-148;2004;3rd;Ronaldinho;Barcelona;133.0;29.75;Brazil;Spain
-149;2005;1st;Ronaldinho;Barcelona;225.0;43.69;Brazil;Spain
-150;2005;2nd;Frank Lampard;Chelsea;148.0;28.74;England;England
-151;2005;3rd;Steven Gerrard;Liverpool;142.0;27.57;England;England
-152;2006;1st;Fabio Cannavaro ;Real Madrid;173.0;41.39;Italy;Spain
-153;2006;2nd;Gianluigi Buffon;Juventus;124.0;29.67;Italy;Italy
-154;2006;3rd;Thierry Henry;Arsenal;121.0;28.95;France;England
-155;2007;1st;Kaká;Milan;444.0;45.49;Brazil;Italy
-156;2007;2nd;Cristiano Ronaldo;Manchester United;277.0;28.38;Portugal;England
-157;2007;3rd;Lionel Messi;Barcelona;255.0;26.13;Argentina;Spain
-158;2008;1st;Cristiano Ronaldo;Manchester United;446.0;49.23;Portugal;Spain
-159;2008;2nd;Lionel Messi;Barcelona;281.0;31.02;Argentina;Spain
-160;2008;3rd;Fernando Torres;Liverpool;179.0;19.76;Spain;England
-161;2009;1st;Lionel Messi;Barcelona;473.0;54.0;Argentina;Spain
-162;2009;2nd;Cristiano Ronaldo;Real Madrid;233.0;26.6;Portugal;Spain
-163;2009;3rd;Xavi;Barcelona;170.0;19.41;Spain;Spain
-164;2010;1st;Lionel Messi;Barcelona;0;22.65;Argentina;Spain
-165;2010;2nd;Andrés Iniesta;Barcelona;0;17.36;Spain;Spain
-166;2010;3rd;Xavi;Barcelona;0;16.48;Spain;Spain
-167;2011;1st;Lionel Messi;Barcelona;0;47.88;Argentina;Spain
-168;2011;2nd;Cristiano Ronaldo;Real Madrid;0;21.60;Portugal;Spain
-169;2011;3rd;Xavi;Barcelona;0;9.23;Spain;Spain
-170;2012;1st;Lionel Messi;Barcelona;0;41.60;Argentina;Spain
-171;2012;2nd;Cristiano Ronaldo;Real Madrid;0;23.68;Portugal;Spain
-172;2012;3rd;Andrés Iniesta;Barcelona;0;10.91;Spain;Spain
-173;2013;1st;Cristiano Ronaldo;Real Madrid;0;27.99;Portugal;Spain
-174;2013;2nd;Lionel Messi;Barcelona;0;24.72;Argentina;Spain
-175;2013;3rd;Franck Ribéry;Bayern Munich;0;23.36;France;Germany
-176;2014;1st;Cristiano Ronaldo;Real Madrid;0;37.66;Portugal;Spain
-177;2014;2nd;Lionel Messi;Barcelona;0;15.76;Argentina;Spain
-178;2014;3rd;Manuel Neuer;Bayern Munich;0;15.72;Germany;Germany
-179;2015;1st;Lionel Messi;Barcelona;0;41.33;Argentina;Spain
-180;2015;2nd;Cristiano Ronaldo;Real Madrid;0;27.76;Portugal;Spain
-181;2015;3rd;Neymar;Barcelona;0;7.86;Brazil;Spain
-182;2016;1st;Cristiano Ronaldo;Real Madrid;745.0;59.17;Portugal;Spain
-183;2016;2nd;Lionel Messi;Barcelona;316.0;25.1;Argentina;Spain
-184;2016;3rd;Antoine Griezmann;Atlético Madrid;198.0;15.73;France;Spain
-185;2017;1st;Cristiano Ronaldo;Real Madrid;946.0;47.85;Portugal;Spain
-186;2017;2nd;Lionel Messi;Barcelona;670.0;33.89;Argentina;Spain
-187;2017;3rd;Neymar;Paris Saint-Germain;361.0;18.26;Brazil;France
-188;2018;1st;Luka Modrić;Real Madrid;753.0;45.83;Croatia;Spain
-189;2018;2nd;Cristiano Ronaldo;Juventus;476.0;28.97;Portugal;Italy
-190;2018;3rd;Antoine Griezmann;Atlético Madrid;414.0;25.2;France;Spain
-191;2019;1st;Lionel Messi;Barcelona;686.0;37.26;Argentina;Spain
-192;2019;2nd;Virgil van Dijk;Liverpool;679.0;36.88;Netherlands;England
-193;2019;3rd;Cristiano Ronaldo;Juventus;476.0;25.86;Portugal;Italy
+,year,rank,player,team,points,percentages,country,club country
+0,1956,1st,Stanley Matthews,Blackpool,47.0,37.9,England,England
+1,1956,2nd,Alfredo Di Stéfano,Real Madrid,44.0,35.48,Spain,Spain
+2,1956,3rd,Raymond Kopa,Real Madrid,33.0,26.61,France,Spain
+3,1957,1st,Alfredo Di Stéfano,Real Madrid,72.0,58.54,Spain,Spain
+4,1957,2nd,Billy Wright,Wolverhampton Wanderers,19.0,15.45,England,England
+5,1957,3rd,Duncan Edwards,Manchester United,16.0,13.01,England,England
+6,1957,3rd,Raymond Kopa,Real Madrid,16.0,13.01,France,Spain
+7,1958,1st,Raymond Kopa,Real Madrid,71.0,52.99,France,Spain
+8,1958,2nd,Helmut Rahn,Rot-Weiss Essen,40.0,29.85,Germany,Germany
+9,1958,3rd,Just Fontaine,Stade de Reims,23.0,17.16,France,France
+10,1959,1st,Alfredo Di Stéfano,Real Madrid,80.0,54.79,Spain,Spain
+11,1959,2nd,Raymond Kopa,Stade de Reims,42.0,28.77,France,France
+12,1959,3rd,John Charles,Juventus,24.0,16.44,Wales,Italy
+13,1960,1st,Luis Suárez,Barcelona,54.0,43.55,Spain,Spain
+14,1960,2nd,Ferenc Puskás,Real Madrid,37.0,29.84,Hungary,Spain
+15,1960,3rd,Uwe Seeler,Hamburg,33.0,26.61,Germany,Germany
+16,1961,1st,Omar Sívori,Juventus,46.0,42.59,Italy,Italy
+17,1961,2nd,Luis Suárez,Internazionale,40.0,37.04,Spain,Italy
+18,1961,3rd,Johnny Haynes,Fulham,22.0,20.37,England,England
+19,1962,1st,Josef Masopust,Dukla Prague,65.0,43.05,Czechoslovakia,Czechoslovakia
+20,1962,2nd,Eusébio,Benfica,53.0,35.1,Portugal,Portugal
+21,1962,3rd,Karl-Heinz Schnellinger,Köln,33.0,21.85,Germany,Germany
+22,1963,1st,Lev Yashin,Dynamo Moscow,73.0,41.01,USSR,USSR
+23,1963,2nd,Gianni Rivera,Milan,55.0,30.9,Italy,Italy
+24,1963,3rd,Jimmy Greaves,Tottenham Hotspur,50.0,28.09,England,England
+25,1964,1st,Denis Law,Manchester United,61.0,42.96,Scotland,England
+26,1964,2nd,Luis Suárez,Internazionale,43.0,30.28,Spain,Italy
+27,1964,3rd,Amancio,Real Madrid,38.0,26.76,Spain,Spain
+28,1965,1st,Eusébio,Benfica,67.0,39.18,Portugal,Portugal
+29,1965,2nd,Giacinto Facchetti,Internazionale,59.0,34.5,Italy,Italy
+30,1965,3rd,Luis Suárez,Internazionale,45.0,26.32,Spain,Italy
+31,1966,1st,Bobby Charlton,Manchester United,81.0,36.82,England,England
+32,1966,2nd,Eusébio,Benfica,80.0,36.36,Portugal,Portugal
+33,1966,3rd,Franz Beckenbauer,Bayern Munich,59.0,26.82,Germany,Germany
+34,1967,1st,Flórián Albert,Ferencváros,68.0,46.26,Hungary,Hungary
+35,1967,2nd,Bobby Charlton,Manchester United,40.0,27.21,England,England
+36,1967,3rd,Jimmy Johnstone,Celtic,39.0,26.53,Scotland,Scotland
+37,1968,1st,George Best,Manchester United,61.0,38.12,England,England
+38,1968,2nd,Bobby Charlton,Manchester United,53.0,33.12,England,England
+39,1968,3rd,Dragan Džajić,Red Star Belgrade,46.0,28.75,Yugoslavia,Yugoslavia
+40,1969,1st,Gianni Rivera,Milan,83.0,41.5,Italy,Italy
+41,1969,2nd,Luigi Riva,Cagliari,79.0,39.5,Italy,Italy
+42,1969,3rd,Gerd Müller,Bayern Munich,38.0,19.0,Germany,Germany
+43,1970,1st,Gerd Müller,Bayern Munich,77.0,36.32,Germany,Germany
+44,1970,2nd,Bobby Moore,West Ham United,70.0,33.02,England,England
+45,1970,3rd,Luigi Riva,Cagliari,65.0,30.66,Italy,Italy
+46,1971,1st,Johan Cruyff,Ajax,116.0,50.66,Netherlands,Netherlands
+47,1971,2nd,Sandro Mazzola,Internazionale,57.0,24.89,Italy,Italy
+48,1971,3rd,George Best,Manchester United,56.0,24.45,England,England
+49,1972,1st,Franz Beckenbauer,Bayern Munich,81.0,33.89,Germany,Germany
+50,1972,2nd,Gerd Müller,Bayern Munich,79.0,33.05,Germany,Germany
+51,1972,2nd,Günter Netzer,Borussia Mönchengladbach,79.0,33.05,Germany,Germany
+52,1973,1st,Johan Cruyff,Barcelona,96.0,51.34,Netherlands,Spain
+53,1973,2nd,Dino Zoff,Juventus,47.0,25.13,Italy,Italy
+54,1973,3rd,Gerd Müller,Bayern Munich,44.0,23.53,Germany,Germany
+55,1974,1st,Johan Cruyff,Barcelona,116.0,45.31,Netherlands,Spain
+56,1974,2nd,Franz Beckenbauer,Bayern Munich,105.0,41.02,Germany,Germany
+57,1974,3rd,Kazimierz Deyna,Legia Warsaw,35.0,13.67,Poland,Poland
+58,1975,1st,Oleg Blokhin,Dynamo Kyiv,122.0,63.87,USSR,USSR
+59,1975,2nd,Franz Beckenbauer,Bayern Munich,42.0,21.99,Germany,Germany
+60,1975,3rd,Johan Cruyff,Barcelona,27.0,14.14,Netherlands,Spain
+61,1976,1st,Franz Beckenbauer,Bayern Munich,91.0,41.74,Germany,Germany
+62,1976,2nd,Rob Rensenbrink,Anderlecht,75.0,34.4,Netherlands,Belgium
+63,1976,3rd,Ivo Viktor,Dukla Prague,52.0,23.85,Czechoslovakia,Czechoslovakia
+64,1977,1st,Allan Simonsen,Borussia Mönchengladbach,74.0,34.42,Denmark,Germany
+65,1977,2nd,Kevin Keegan,Hamburg,71.0,33.02,England,Germany
+66,1977,3rd,Michel Platini,Nancy,70.0,32.56,Italy,France
+67,1978,1st,Kevin Keegan,Hamburg,87.0,39.91,England,Germany
+68,1978,2nd,Hans Krankl,Barcelona,81.0,37.16,Austria,Spain
+69,1978,3rd,Rob Rensenbrink,Anderlecht,50.0,22.94,Netherlands,Belgium
+70,1979,1st,Kevin Keegan,Hamburg,118.0,55.92,England,Germany
+71,1979,2nd,Karl-Heinz Rummenigge,Bayern Munich,52.0,24.64,Germany,Germany
+72,1979,3rd,Ruud Krol,Ajax,41.0,19.43,Netherlands,Netherlands
+73,1980,1st,Karl-Heinz Rummenigge,Bayern Munich,122.0,64.55,Germany,Germany
+74,1980,2nd,Bernd Schuster,Barcelona,34.0,17.99,Germany,Spain
+75,1980,3rd,Michel Platini,Saint-Étienne,33.0,17.46,Italy,France
+76,1981,1st,Karl-Heinz Rummenigge,Bayern Munich,106.0,50.72,Germany,Germany
+77,1981,2nd,Paul Breitner,Bayern Munich,64.0,30.62,Germany,Germany
+78,1981,3rd,Bernd Schuster,Barcelona,39.0,18.66,Germany,Spain
+79,1982,1st,Paolo Rossi,Juventus,115.0,52.75,Italy,Italy
+80,1982,2nd,Alain Giresse,Bordeaux,64.0,29.36,France,France
+81,1982,3rd,Zbigniew Boniek,Juventus,39.0,17.89,Poland,Italy
+82,1983,1st,Michel Platini,Juventus,110.0,68.32,Italy,Italy
+83,1983,2nd,Kenny Dalglish,Liverpool,26.0,16.15,Scotland,England
+84,1983,3rd,Allan Simonsen,Vejle,25.0,15.53,Denmark,Denmark
+85,1984,1st,Michel Platini,Juventus,110.0,51.16,Italy,Italy
+86,1984,2nd,Jean Tigana,Bordeaux,57.0,26.51,France,France
+87,1984,3rd,Preben Elkjær,Hellas Verona,48.0,22.33,Denmark,Italy
+88,1985,1st,Michel Platini,Juventus,127.0,52.05,Italy,Italy
+89,1985,2nd,Preben Elkjær,Hellas Verona,71.0,29.1,Denmark,Italy
+90,1985,3rd,Bernd Schuster,Barcelona,46.0,18.85,Germany,Spain
+91,1986,1st,Igor Belanov,Dynamo Kyiv,84.0,40.98,USSR,USSR
+92,1986,2nd,Gary Lineker,Barcelona,62.0,30.24,England,Spain
+93,1986,3rd,Emilio Butragueño,Real Madrid,59.0,28.78,Spain,Spain
+94,1987,1st,Ruud Gullit,Milan,106.0,41.09,Netherlands,Italy
+95,1987,2nd,Paulo Futre,Atlético Madrid,91.0,35.27,Portugal,Spain
+96,1987,3rd,Emilio Butragueño,Real Madrid,61.0,23.64,Spain,Spain
+97,1988,1st,Marco van Basten,Milan,129.0,49.24,Netherlands,Italy
+98,1988,2nd,Ruud Gullit,Milan,88.0,33.59,Netherlands,Italy
+99,1988,3rd,Frank Rijkaard,Milan,45.0,17.18,Netherlands,Italy
+100,1989,1st,Marco van Basten,Milan,129.0,51.19,Netherlands,Italy
+101,1989,2nd,Franco Baresi,Milan,80.0,31.75,Italy,Italy
+102,1989,3rd,Frank Rijkaard,Milan,43.0,17.06,Netherlands,Italy
+103,1990,1st,Lothar Matthäus,Internazionale,137.0,47.4,Germany,Italy
+104,1990,2nd,Salvatore Schillaci,Juventus,84.0,29.07,Italy,Italy
+105,1990,3rd,Andreas Brehme,Internazionale,68.0,23.53,Germany,Italy
+106,1991,1st,Jean-Pierre Papin,Marseille,141.0,52.81,France,France
+107,1991,2nd,Dejan Savićević,Red Star Belgrade,42.0,15.73,Yugoslavia,Yugoslavia
+108,1991,2nd,Darko Pančev,Red Star Belgrade,42.0,15.73,Yugoslavia,Yugoslavia
+109,1991,3rd,Lothar Matthäus,Internazionale,42.0,15.73,Germany,Italy
+110,1992,1st,Marco van Basten,Milan,98.0,42.42,Netherlands,Italy
+111,1992,2nd,Hristo Stoichkov,Barcelona,80.0,34.63,Bulgary,Spain
+112,1992,3rd,Dennis Bergkamp,Ajax,53.0,22.94,Netherlands,Netherlands
+113,1993,1st,Roberto Baggio,Juventus,142.0,54.83,Italy,Italy
+114,1993,2nd,Dennis Bergkamp,Internazionale,83.0,32.05,Netherlands,Italy
+115,1993,3rd,Eric Cantona,Manchester United,34.0,13.13,France,England
+116,1994,1st,Hristo Stoichkov,Barcelona,210.0,46.15,Bulgary,Spain
+117,1994,2nd,Roberto Baggio,Juventus,136.0,29.89,Italy,Italy
+118,1994,3rd,Paolo Maldini,Milan,109.0,23.96,Italy,Italy
+119,1995,1st,George Weah ,Milan,144.0,45.14,Liberia,Italy
+120,1995,2nd,Jürgen Klinsmann,Bayern Munich,108.0,33.86,Germany,Germany
+121,1995,3rd,Jari Litmanen,Ajax,67.0,21.0,Netherlands,Netherlands
+122,1996,1st,Matthias Sammer,Borussia Dortmund,144.0,36.55,Germany,Germany
+123,1996,2nd,Ronaldo,Barcelona,143.0,36.29,Brazil,Spain
+124,1996,3rd,Alan Shearer,Newcastle United,107.0,27.16,Scotland,England
+125,1997,1st,Ronaldo ,Internazionale,222.0,62.89,Brazil,Italy
+126,1997,2nd,Predrag Mijatović,Real Madrid,68.0,19.26,Serbia,Spain
+127,1997,3rd,Zinedine Zidane,Juventus,63.0,17.85,France,Italy
+128,1998,1st,Zinedine Zidane,Juventus,244.0,64.55,France,Italy
+129,1998,2nd,Davor Šuker,Real Madrid,68.0,17.99,Croatia,Spain
+130,1998,3rd,Ronaldo,Internazionale,66.0,17.46,Brazil,Italy
+131,1999,1st,Rivaldo,Barcelona,219.0,50.11,Brazil,Spain
+132,1999,2nd,David Beckham,Manchester United,154.0,35.24,England,England
+133,1999,3rd,Andriy Shevchenko,Milan,64.0,14.65,Ukraine,Italy
+134,2000,1st,Luís Figo,Real Madrid,197.0,42.55,Portugal,Spain
+135,2000,2nd,Zinedine Zidane,Juventus,181.0,39.09,France,Italy
+136,2000,3rd,Andriy Shevchenko,Milan,85.0,18.36,Ukraine,Italy
+137,2001,1st,Michael Owen,Liverpool,176.0,40.93,England,England
+138,2001,2nd,Raúl,Real Madrid,140.0,32.56,Spain,Spain
+139,2001,3rd,Oliver Kahn,Bayern Munich,114.0,26.51,Germany,Germany
+140,2002,1st,Ronaldo ,Real Madrid,169.0,39.86,Brazil,Spain
+141,2002,2nd,Roberto Carlos,Real Madrid,145.0,34.2,Brazil,Spain
+142,2002,3rd,Oliver Kahn,Bayern Munich,110.0,25.94,Germany,Germany
+143,2003,1st,Pavel Nedvěd,Juventus,190.0,43.08,Czech Republic,Italy
+144,2003,2nd,Thierry Henry,Arsenal,128.0,29.02,France,England
+145,2003,3rd,Paolo Maldini,Milan,123.0,27.89,Italy,Italy
+146,2004,1st,Andriy Shevchenko,Milan,175.0,39.15,Ukraine,Italy
+147,2004,2nd,Deco,Barcelona,139.0,31.1,Portugal,Spain
+148,2004,3rd,Ronaldinho,Barcelona,133.0,29.75,Brazil,Spain
+149,2005,1st,Ronaldinho,Barcelona,225.0,43.69,Brazil,Spain
+150,2005,2nd,Frank Lampard,Chelsea,148.0,28.74,England,England
+151,2005,3rd,Steven Gerrard,Liverpool,142.0,27.57,England,England
+152,2006,1st,Fabio Cannavaro ,Real Madrid,173.0,41.39,Italy,Spain
+153,2006,2nd,Gianluigi Buffon,Juventus,124.0,29.67,Italy,Italy
+154,2006,3rd,Thierry Henry,Arsenal,121.0,28.95,France,England
+155,2007,1st,Kaká,Milan,444.0,45.49,Brazil,Italy
+156,2007,2nd,Cristiano Ronaldo,Manchester United,277.0,28.38,Portugal,England
+157,2007,3rd,Lionel Messi,Barcelona,255.0,26.13,Argentina,Spain
+158,2008,1st,Cristiano Ronaldo,Manchester United,446.0,49.23,Portugal,Spain
+159,2008,2nd,Lionel Messi,Barcelona,281.0,31.02,Argentina,Spain
+160,2008,3rd,Fernando Torres,Liverpool,179.0,19.76,Spain,England
+161,2009,1st,Lionel Messi,Barcelona,473.0,54.0,Argentina,Spain
+162,2009,2nd,Cristiano Ronaldo,Real Madrid,233.0,26.6,Portugal,Spain
+163,2009,3rd,Xavi,Barcelona,170.0,19.41,Spain,Spain
+164,2010,1st,Lionel Messi,Barcelona,0,22.65,Argentina,Spain
+165,2010,2nd,Andrés Iniesta,Barcelona,0,17.36,Spain,Spain
+166,2010,3rd,Xavi,Barcelona,0,16.48,Spain,Spain
+167,2011,1st,Lionel Messi,Barcelona,0,47.88,Argentina,Spain
+168,2011,2nd,Cristiano Ronaldo,Real Madrid,0,21.60,Portugal,Spain
+169,2011,3rd,Xavi,Barcelona,0,9.23,Spain,Spain
+170,2012,1st,Lionel Messi,Barcelona,0,41.60,Argentina,Spain
+171,2012,2nd,Cristiano Ronaldo,Real Madrid,0,23.68,Portugal,Spain
+172,2012,3rd,Andrés Iniesta,Barcelona,0,10.91,Spain,Spain
+173,2013,1st,Cristiano Ronaldo,Real Madrid,0,27.99,Portugal,Spain
+174,2013,2nd,Lionel Messi,Barcelona,0,24.72,Argentina,Spain
+175,2013,3rd,Franck Ribéry,Bayern Munich,0,23.36,France,Germany
+176,2014,1st,Cristiano Ronaldo,Real Madrid,0,37.66,Portugal,Spain
+177,2014,2nd,Lionel Messi,Barcelona,0,15.76,Argentina,Spain
+178,2014,3rd,Manuel Neuer,Bayern Munich,0,15.72,Germany,Germany
+179,2015,1st,Lionel Messi,Barcelona,0,41.33,Argentina,Spain
+180,2015,2nd,Cristiano Ronaldo,Real Madrid,0,27.76,Portugal,Spain
+181,2015,3rd,Neymar,Barcelona,0,7.86,Brazil,Spain
+182,2016,1st,Cristiano Ronaldo,Real Madrid,745.0,59.17,Portugal,Spain
+183,2016,2nd,Lionel Messi,Barcelona,316.0,25.1,Argentina,Spain
+184,2016,3rd,Antoine Griezmann,Atlético Madrid,198.0,15.73,France,Spain
+185,2017,1st,Cristiano Ronaldo,Real Madrid,946.0,47.85,Portugal,Spain
+186,2017,2nd,Lionel Messi,Barcelona,670.0,33.89,Argentina,Spain
+187,2017,3rd,Neymar,Paris Saint-Germain,361.0,18.26,Brazil,France
+188,2018,1st,Luka Modrić,Real Madrid,753.0,45.83,Croatia,Spain
+189,2018,2nd,Cristiano Ronaldo,Juventus,476.0,28.97,Portugal,Italy
+190,2018,3rd,Antoine Griezmann,Atlético Madrid,414.0,25.2,France,Spain
+191,2019,1st,Lionel Messi,Barcelona,686.0,37.26,Argentina,Spain
+192,2019,2nd,Virgil van Dijk,Liverpool,679.0,36.88,Netherlands,England
+193,2019,3rd,Cristiano Ronaldo,Juventus,476.0,25.86,Portugal,Italy
